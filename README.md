@@ -11,10 +11,12 @@ A responsive, static website starter for Haspra EduTech. It can be deployed dire
 
 ## Official contact details included
 
-- Website: https://haspraedutech.in
-- Email: Haspraedutech@gmail.com
+- Website: https://www.haspraedutech.in⁠
+- Email: haspraedutech@gmail.com
+- 
 - Phone / WhatsApp: +91 96778 13618
-- Address: 7/91/1, Sree Murugalaya Nagar, Atthikattanoor, Konagapadi Post, Tharamangalam, Salem–636 502, Tamil Nadu, India
+- Address: 7/91/1, Sree Murugalaya Nagar, Atthikattanoor, Konagapadi Post, Tharamangalam, Salem–636 502,
+- Tamil Nadu, India.
 
 ## Deploy using GitHub and Vercel
 
